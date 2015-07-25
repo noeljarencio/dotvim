@@ -52,3 +52,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/proc"]
+	path = bundle/proc
+	url = https://github.com/Shougo/vimproc.vim.git
