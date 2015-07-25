@@ -43,3 +43,9 @@
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
 	url = https://github.com/tpope/vim-fugitive.git
+[submodule "bundle/gitgutter"]
+	path = bundle/gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "bundle/php-cs-fixer"]
+	path = bundle/php-cs-fixer
+	url = https://github.com/stephpy/vim-php-cs-fixer.git
