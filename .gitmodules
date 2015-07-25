@@ -55,3 +55,6 @@
 [submodule "bundle/proc"]
 	path = bundle/proc
 	url = https://github.com/Shougo/vimproc.vim.git
+[submodule "bundle/YouCompleteMe"]
+	path = bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
