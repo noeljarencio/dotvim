@@ -1,0 +1,6 @@
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/molokai"]
+	path = bundle/molokai
+	url = https://github.com/tomasr/molokai.git
